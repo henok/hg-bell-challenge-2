@@ -1,4 +1,4 @@
-# Henok Ghebrezghi - Bell Technical Interview Question 2
+# H.G - Bell Challenge 2
 
 This is a simple mobile application that contains a single activity. 
  
